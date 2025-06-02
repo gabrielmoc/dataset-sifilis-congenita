@@ -12,7 +12,6 @@ Repositório do projeto da disciplina Aprendizado de Máquina – 2025.1, desenv
 📁 **Estrutura do Repositório**
 - Dataset.ipynb: Notebook principal com pré-processamento, EDA, modelos preditivos e clusterização.
 - Relatorio.pdf: Relatório final em LaTeX (formato SBC).
-- Apresentacao.pdf: Slides da apresentação final.
 
 📌 **Tecnologias e Métodos Utilizados**
 - Pandas, Matplotlib, Seaborn
